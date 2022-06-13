@@ -5,7 +5,7 @@ A CLI Typing Speed application built using Python and **curses** library
 # What did I learn
 
 * Python language
-* Libraries and Modules in Python
+* Libraries and modules in Python
 * CMD usage
 
 # Usage
